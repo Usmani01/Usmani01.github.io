@@ -1,0 +1,31 @@
+.text h1{
+
+  font-size: 90px;
+  font-family: Times New Roman
+Georgia;
+  font-weight: bold;
+}
+
+
+.bg-dark.p-4 a{
+
+  font-size: 50px;
+  font-family: Times New Roman
+Georgia;
+  font-weight: bold;
+  color: #0090ff;
+}
+
+.flex-container {
+  display: flex;
+  background-color: #391128;
+
+}
+
+.flex-container > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+
